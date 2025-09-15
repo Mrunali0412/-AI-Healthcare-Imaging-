@@ -21,3 +21,7 @@ It is called U-Net as the shape of the architecture resembles english alphabet -
 It is easiest deep learning architecture as it consists of only convolutional layers followed by max pooling.
 Max pooling refers to selecting the maximum value within a window of a samlpe and sliding the window  to reduce dimensions of the sample and easier training.
 
+Software Used:Python,VsCode,3D Slicer(visualisatio),MONAI
+DataSet:Kaggle
+
+
