@@ -24,4 +24,4 @@ Max pooling refers to selecting the maximum value within a window of a samlpe an
 Software Used:Python,VsCode,3D Slicer(visualisatio),MONAI
 DataSet:Kaggle
 
-
+Here,we have cropped the images into smaller squares and then used them fpr training and testing.
