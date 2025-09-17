@@ -21,7 +21,12 @@ It is called U-Net as the shape of the architecture resembles english alphabet -
 It is easiest deep learning architecture as it consists of only convolutional layers followed by max pooling.
 Max pooling refers to selecting the maximum value within a window of a samlpe and sliding the window  to reduce dimensions of the sample and easier training.
 
-Software Used:Python,VsCode,3D Slicer(visualisatio),MONAI
-DataSet:Kaggle
+Software Used:Python,VsCode,3D Slicer(visualisation and conversion of file type of data)
+Framework:MONAI(for preprocessing the data )(MONAI has used nifti files)(each nifti file is a combination of several DICOM files .dcm)
+DataSet:Kaggle,Decathlon(.tar)
+.tar means Tape ARchive file -bundles many compressed files but itself isn't compressed.
+It was originally crerated for unix.linux but can be uesd on windows by extracting them.
 
-Here,we have cropped the images into smaller squares and then used them fpr training and testing.
+
+
+Here,we have cropped the images into smaller squares and then used them for training and testing.
