@@ -29,4 +29,4 @@ It was originally crerated for unix.linux but can be uesd on windows by extracti
 
 
 
-Here,we have cropped the images into smaller squares and then used them for training and testing.
+Here,we have cropped the images into smaller squares and then used them for training and testing.deciding if want to continue.
